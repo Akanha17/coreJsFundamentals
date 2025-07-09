@@ -1,0 +1,32 @@
+****** Notes ******
+
+what is a prototype ?
+=> whenever you create a variable, function, object or even an array if you put a 
+'.' after that, you get access to a lot of hidden things (maybe a property or a function) for example: 
+    array.length or arr.push() or object.toString()
+well, something must be working behind the scene right! well that something is prototype.
+it adds an object to your defined object/variable/array
+
+* to try it do "let arr = [1,2,3,4]; console.log(arr.__proto__)" or else in general try this "Array.prototype"
+
+* to make it more interesting try arr.__proto__.__proto__ which will be same as Object.prototype; then try
+    adding more .__proto__ you will endup with a 'null'. --> this chian is called prototype chain.
+
+Try the same with function you will endup with same thing which further proves that everything in JS is object.
+
+# Note:
+    below is a quick syntax for trial purpose or for understanding not advisable to use it in actual coding.
+
+    let object = {
+        name: 'Aishi',
+        age: 24,
+        getInfo: function(){
+            console.log( this.name + ' is ' + this.age + ' years old' )
+        }
+    }
+
+    let object2 = {
+        name: 'yourName'
+    }
+
+    object2.__proto__ = object // now try with console.log(object2.__proto__, object2.age)
