@@ -22,6 +22,6 @@ for(weird of weirdos){
 console.log('')
 
 // some special cases and how to properly identify weirdos
-// 1. []
-
-console.log(typeof Array.isArray([]))
+// 1. null -> value === null
+// 2. [] => Array.isArray([])
+// 3. NaN => Number.isNaN(NaN)
