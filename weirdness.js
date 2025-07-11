@@ -4,7 +4,7 @@ console.log('the array', arr);
 console.log('the array and the types that JS returns')
 console.log('')
 
-for( elements of arr ){
+for( let elements of arr ){
     console.log(elements, '->' ,typeof elements)
 }
 console.log('')
@@ -12,11 +12,11 @@ console.log('')
 
 let weirdos = [null, [], function (){}, NaN]
 
-console.log('weridos', weirdos)
+console.log('weirdos', weirdos)
 console.log('types of these weirdos as follows')
 console.log('')
 
-for(weird of weirdos){
+for( let weird of weirdos){
     console.log(weird,'->', typeof weird)
 }
 console.log('')
@@ -25,3 +25,7 @@ console.log('')
 // 1. null -> value === null
 // 2. [] => Array.isArray([])
 // 3. NaN => Number.isNaN(NaN)
+
+console.log('null is null:', weirdos[0] === null)
+console.log('[] is array:', Array.isArray(weirdos[1]))
+console.log('NaN is NaN:', Number.isNaN(weirdos[3]))
