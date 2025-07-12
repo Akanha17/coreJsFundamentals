@@ -1,4 +1,4 @@
-## Day2 == vs === coercion hell
+## Day2 === vs == coercion hell
 
 - 🔒 === strict equality check - no type conversion
 - 🤡 == loose equality check - auto type conversion / coercion
