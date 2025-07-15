@@ -2,5 +2,6 @@
 
 ## Table of Contents
 
-- [Day 1: Type Weirdness](typeof quirks (null, NaN, function, arrays))
-- [Day 2: === vs == ] ((strict equality vs loose equality check) with corecion rule)
+### [Day 1: Type Weirdness](./Day1/day1.md)
+### [Day 2: Equality Checks](./Day2/day2.md)
+### [Day 3: Hositing](./Day3/day3.md)
