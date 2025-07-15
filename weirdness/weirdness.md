@@ -5,3 +5,4 @@
 ### [Day 1: Type Weirdness](./Day1/day1.md)
 ### [Day 2: Equality Checks](./Day2/day2.md)
 ### [Day 3: Hositing](./Day3/day3.md)
+### [Day 4: execution context](./Day4/day4.md)
