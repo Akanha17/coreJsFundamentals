@@ -1,13 +1,14 @@
-let arr = ['hello', 42, true, undefined, Symbol(), 10n]
+let arr = ['hello', 42, true, undefined, Symbol(), 10n];
 
 console.log('the array', arr);
-console.log('the array and the types that JS returns')
-console.log('')
+console.log('the array and the types that JS returns');
+console.log('');
 
-for( let elements of arr ){
-    console.log(elements, '->' ,typeof elements)
+for( let element of arr ){
+    console.log(element, '->' ,typeof element);
 }
-console.log('')
+console.log('');
+
 // now weirdness begins
 
 let weirdos = [null, [], function (){}, NaN]

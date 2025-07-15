@@ -1,4 +1,11 @@
 # coreJsFundamentals
-Trying something different in JS
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Here I wanted to have some core level understanding and concepts related to JS. so here I will be covering some of the core fundamentals in some js file or may be a html and css for better representation.
+A personal journey exploring the weird and wonderful behaviors of JavaScript.
+
+...
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Aishi Ashirvad Mishra.  
+Feel free to use, modify, and share with attribution.
