@@ -93,8 +93,6 @@ for (let i = 0; i < 3; i++) {
 
 - 2
 
-- 3
-
 ### now guess the output
 
 ```js
