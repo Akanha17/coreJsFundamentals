@@ -6,3 +6,4 @@
 ### [Day 2: Equality Checks](./Day2/day2.md)
 ### [Day 3: Hositing](./Day3/day3.md)
 ### [Day 4: execution context](./Day4/day4.md)
+### [Day 5: closures](./Day5/day5.md)
