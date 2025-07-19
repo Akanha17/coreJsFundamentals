@@ -7,4 +7,4 @@
 ### [Day 3: Hositing](./Day3/day3.md)
 ### [Day 4: execution context](./Day4/day4.md)
 ### [Day 5: closures](./Day5/day5.md)
-### [Day 6: this](./Day6/day6.md)
+### [Day 6: this](./Day6/day6.md) [extras](./Day6-extras/day6-II.md)
