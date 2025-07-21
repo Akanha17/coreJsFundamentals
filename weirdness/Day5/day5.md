@@ -73,7 +73,7 @@ for (var i = 0; i < 3; i++) {
 
 - 3
 
--> because var is **function scoped**, not block scoped - al callbacks share the same i
+-> because var is **function scoped**, not block scoped - all callbacks share the same i
 
 
 
