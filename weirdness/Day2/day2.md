@@ -67,3 +67,5 @@ console.log(0 == false)
 | [0] == false       | true       | [0] ->"0" -> 0, false -> 0   |
 | [1] == true        | true       | [1] -> "1" -> 1, true -> 1   |
 | undefined == false | false      | No coercion path to match    |
+
+# [jump to day3](../Day3/day3.md)

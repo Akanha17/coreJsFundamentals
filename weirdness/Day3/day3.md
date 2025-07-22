@@ -110,3 +110,5 @@ let sayHi = () =>{
     console.log("strange isn't it")
 }
 ```
+
+# [jump to day4](../Day4/day4.md)

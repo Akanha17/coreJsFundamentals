@@ -136,3 +136,5 @@ inc(); // undefined or error
 > you fix it with: 1. Arrow function inside class 2. Or .bind(this)
 
 
+# [jump to extras](../Day6-extras/day6-II.md)
+# [jump to day7](../Day7/day7.md)

@@ -110,5 +110,5 @@ console.log(add10(2));  // ?
 ```
 
 
-
+# [jump to day6](../Day6/day6.md)
 

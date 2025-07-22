@@ -77,3 +77,5 @@ console.log(x); // 10
 
 
 > Day5 closures -> when function remembers outer variables even after the outer scope is gone.
+
+## [jump to day5](../Day5/day5.md)

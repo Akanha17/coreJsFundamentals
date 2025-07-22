@@ -59,3 +59,5 @@ console.log('NaN is NaN:', Number.isNaN(weirdos[3]));
 
 > **Summary:**  
 > JavaScript’s `typeof` operator has some quirks. Always use proper checks for `null`, arrays, and `NaN` to avoid bugs.
+
+# [jump to day2](../Day2/day2.md)
