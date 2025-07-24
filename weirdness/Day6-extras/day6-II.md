@@ -88,3 +88,6 @@ const g = obj.greet
 g(); // undefined
 g.call(obj); //Ash
 ```
+
+# [Jump to Day6](../Day6/day6.md)
+# [Jump to Day7](../Day7/day7.md)

@@ -93,3 +93,5 @@ console.log(cat.sound); // meow
 - Use `Object.create()` for clean inheritance
 - Understand `.prototype` for constructor-based models
 - Be cautious with method shadowing and `this` context
+
+# [Jump to Day8](../Day8/day8.md)
