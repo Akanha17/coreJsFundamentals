@@ -95,3 +95,4 @@ console.log(cat.sound); // meow
 - Be cautious with method shadowing and `this` context
 
 # [Jump to Day8](../Day8/day8.md)
+# [Jump to Day6](../Day6/day6.md)

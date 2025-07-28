@@ -88,3 +88,5 @@ console.log("D")
 guess the output 👆🏻
 
 
+# [jump to day9](../Day9/day9.md)
+# [jump to day7](../Day7/day7.md)

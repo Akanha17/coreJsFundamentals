@@ -69,3 +69,4 @@ console.log(0 == false)
 | undefined == false | false      | No coercion path to match    |
 
 # [jump to day3](../Day3/day3.md)
+# [jump to day1](../Day1/day1.md)

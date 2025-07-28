@@ -138,3 +138,4 @@ inc(); // undefined or error
 
 # [jump to extras](../Day6-extras/day6-II.md)
 # [jump to day7](../Day7/day7.md)
+# [jump to day5](../Day5/day5.md)

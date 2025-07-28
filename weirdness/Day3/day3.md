@@ -112,3 +112,4 @@ let sayHi = () =>{
 ```
 
 # [jump to day4](../Day4/day4.md)
+# [jump to day2](../Day2/day2.md)
