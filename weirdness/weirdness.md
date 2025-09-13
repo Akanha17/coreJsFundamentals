@@ -10,4 +10,5 @@
 ### [Day 6: this](./Day6/day6.md) [extras](./Day6-extras/day6-II.md)
 ### [Day 7: prototype & inheritance](./Day7/day7.md)
 ### [Day 8: async](./Day8/day8.md)
-### [Day 9: callbacks, Promises & async/await](./Day8/day8.md)
+### [Day 9: callbacks, Promises & async/await](./Day9/day9.md)
+### [Day 10: object copy shallow vs deep](./Day10/day10.md)

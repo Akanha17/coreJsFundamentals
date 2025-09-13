@@ -97,3 +97,4 @@ async function fetchData() {
 
 
 # [jump to day8](../Day8/day8.md)
+# [jump to day10](../Day10/day10.md)
