@@ -104,4 +104,5 @@ console.log(obj.nested.b); // 2
 
 5. cloning large copy is memory expansive
 
-
+# [jump to day9](../Day9/day9.md)
+# [jump to day11](../Day11/day11.md)
