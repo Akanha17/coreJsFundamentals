@@ -12,3 +12,5 @@
 ### [Day 8: async](./Day8/day8.md)
 ### [Day 9: callbacks, Promises & async/await](./Day9/day9.md)
 ### [Day 10: object copy shallow vs deep](./Day10/day10.md)
+### [Day 11: deep dive to arrays](./Day11/day11.md)
+### [Day 12: IIFE, Rest, Default parameters](./Day12/day12.md)
