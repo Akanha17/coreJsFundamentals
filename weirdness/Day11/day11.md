@@ -108,3 +108,4 @@ console.log(a.concat(b));    // [1,2,3,4]
 
 
 # [jump to day10](../Day10/day10.md)
+# [jump to day12](../Day12/day12.md)
