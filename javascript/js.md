@@ -1,4 +1,4 @@
-## this series will be devided in phasewise
+## this series will be divided in phasewise
 
 
 
