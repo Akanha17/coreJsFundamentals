@@ -4,7 +4,7 @@
 
 - Phase 1: **core foundations**
   
-  Day H1 -> Variables (var, let, const)
+  [Day H1 -> Variables (var, let, const)](./basics/variables.md)
   
   Day H2 -> Data types (numbers, string, boolean, null, undefined, symbol, bigint)
   
@@ -45,15 +45,19 @@
   Day H17 → async/await
   
   Day H18 → Fetch API + error handling
-  
+
   Day H19 → Project: Weather App
 
 - Phase 5: **Advanced**
   
   Day H20 → Classes & OOP
+
   Day H21 → Modules (import, export)
+
   Day H22 → Sets, Maps, WeakMaps
+
   Day H23 → ES6+ features (spread, rest, destructuring, optional chaining)
+
   Day H24 → LocalStorage & SessionStorage
 
 - Phase 6: **Hands on projects** (coming soon....)
