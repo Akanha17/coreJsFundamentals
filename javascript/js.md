@@ -6,7 +6,7 @@
   
   [Day H1 -> Variables (var, let, const)](./basics/variables.md)
   
-  Day H2 -> Data types (numbers, string, boolean, null, undefined, symbol, bigint)
+  [Day H2 -> Data types (numbers, string, boolean, null, undefined, symbol, bigint)](./basics/datatypes.md)
   
   Day H3 -> Operators (arithmetic, logical, comparision, ternary)
   
