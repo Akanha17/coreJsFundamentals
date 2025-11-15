@@ -10,7 +10,7 @@
   
   [Day H3 -> Operators (arithmetic, logical, comparision, ternary)](./basics/operators.md)
   
-  Day H4 -> Control Flow (if, switch, loops)
+  [Day H4 -> Control Flow (if, switch, loops)](./basics/controlflow.md)
   
   Day H5 -> Functions (declaration, expression, arrow, parameters, return) 
 
