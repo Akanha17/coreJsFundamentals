@@ -8,7 +8,7 @@
   
   [Day H2 -> Data types (numbers, string, boolean, null, undefined, symbol, bigint)](./basics/datatypes.md)
   
-  Day H3 -> Operators (arithmetic, logical, comparision, ternary)
+  [Day H3 -> Operators (arithmetic, logical, comparision, ternary)](./basics/operators.md)
   
   Day H4 -> Control Flow (if, switch, loops)
   
