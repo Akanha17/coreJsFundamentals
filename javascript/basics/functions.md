@@ -114,3 +114,5 @@ const obj = {
     hi: () => console.log(this.name) // this = window/global
 };
 ```
+
+

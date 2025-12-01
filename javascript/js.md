@@ -12,7 +12,7 @@
   
   [Day H4 -> Control Flow (if, switch, loops)](./basics/controlflow.md)
   
-  Day H5 -> Functions (declaration, expression, arrow, parameters, return) 
+  [Day H5 -> Functions (declaration, expression, arrow, parameters, return)](./basics/functions.md) 
 
 - Phase 2: **working with data**
   
