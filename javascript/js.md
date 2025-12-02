@@ -16,7 +16,7 @@
 
 - Phase 2: **working with data**
   
-  Day H6 → Objects (keys, values, methods, destructuring)
+  [Day H6 → Objects (keys, values, methods, destructuring)](./basic-plus/objects.md)
   
   Day H7 → Arrays (basics: push, pop, indexOf, includes)
   
