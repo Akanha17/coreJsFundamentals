@@ -18,7 +18,7 @@
   
   [Day H6 → Objects (keys, values, methods, destructuring)](./basic-plus/objects.md)
   
-  Day H7 → Arrays (basics: push, pop, indexOf, includes)
+  [Day H7 → Arrays (basics: push, pop, indexOf, includes)](./basic-plus/arrays.md)
   
   Day H8 → Arrays (higher-order: map, filter, reduce)
   
