@@ -20,7 +20,7 @@
   
   [Day H7 → Arrays (basics: push, pop, indexOf, includes)](./basic-plus/arrays.md)
   
-  Day H8 → Arrays (higher-order: map, filter, reduce)
+  [Day H8 → Arrays (higher-order: map, filter, reduce)](./basic-plus/arrays2.md)
   
   Day H9 → Strings (methods, template literals)
   
