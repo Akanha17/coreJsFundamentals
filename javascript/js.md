@@ -22,7 +22,7 @@
   
   [Day H8 → Arrays (higher-order: map, filter, reduce)](./basic-plus/arrays2.md)
   
-  Day H9 → Strings (methods, template literals)
+  [Day H9 → Strings (methods, template literals)](./basic-plus/strings.md)
   
   Day H10 → Numbers & Mat
 
