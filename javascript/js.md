@@ -24,7 +24,7 @@
   
   [Day H9 → Strings (methods, template literals)](./basic-plus/strings.md)
   
-  Day H10 → Numbers & Mat
+  [Day H10 → Numbers & Math](./basic-plus/numbers_math.md)
 
 - Phase 3: **DOM & Browser**
   
