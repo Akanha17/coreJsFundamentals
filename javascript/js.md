@@ -28,7 +28,7 @@
 
 - Phase 3: **DOM & Browser**
   
-  Day H11 → DOM selection & manipulation
+  [Day H11 → DOM selection & manipulation](./advanced/dom.md)
   
   Day H12 → Events & listeners
   
