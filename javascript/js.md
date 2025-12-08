@@ -30,7 +30,7 @@
   
   [Day H11 → DOM selection & manipulation](./advanced/dom.md)
   
-  Day H12 → Events & listeners
+  [Day H12 → Events & listeners](./advanced/events.md)
   
   Day H13 → Forms & input handling
   
