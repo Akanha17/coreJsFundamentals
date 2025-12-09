@@ -32,7 +32,7 @@
   
   [Day H12 → Events & listeners](./advanced/events.md)
   
-  Day H13 → Forms & input handling
+  [Day H13 → Forms & input handling](./advanced/forms.md)
   
   Day H14 → DOM projects (Counter, Color Changer)
 
