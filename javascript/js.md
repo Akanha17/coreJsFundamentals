@@ -34,7 +34,7 @@
   
   [Day H13 → Forms & input handling](./advanced/forms.md)
   
-  Day H14 → DOM projects (Counter, Color Changer)
+  [Day H14 → DOM projects (Counter, Color Changer)](./mini-project/mini.md)
 
 - Phase 4: **Async Foundations**
   

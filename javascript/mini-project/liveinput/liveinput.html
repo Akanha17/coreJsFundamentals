@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>live input</title>
+</head>
+<body>
+    <h1>Live Input Display</h1>
+    <input type="'text" id="liveText" placeholder="type something...">
+    <p>you entered: <span id="enteredValue"></span></p>
+    <script>
+        const inputField = document.getElementById('liveText');
+        const displayValue = document.getElementById('enteredValue');
+
+        inputField.addEventListener('input', (e) => {
+            displayValue.innerText = e.target.value
+        })
+    </script>
+</body>
+</html>
