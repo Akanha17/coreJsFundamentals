@@ -25,13 +25,17 @@ addTodoButton.addEventListener('click', function(){
 })
 
 function renderTasks(){
-    todoList.innerHTML = tasks.map(task => `<li>${task.name}</li>`).join('');
+    // todoList.innerHTML = tasks.map(task => `<li>${task.name}</li>`).join('');
+    const li = document.createElement('li');
+    li.innerText = tasks.map(task => task.name)
+    todoList.appendChild(li);
 }
 function clearAll(){
-    tasks.length = 0;   
+    tasks.length = 0;
+    todoList.innerHTML = '';
 }
 
 clearAllButton.addEventListener('click', function(){
     clearAll();
-    renderTasks();
+    // renderTasks();
 });

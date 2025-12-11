@@ -103,7 +103,7 @@ Math.min(1,100,10) // 1
 
 - Math.random()
 
-Generate number in (0,1)
+Generate number in [0,1)
 
 ```js
 Math.random(); // 0.12345....
