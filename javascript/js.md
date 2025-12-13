@@ -38,9 +38,9 @@
 
 - Phase 4: **Async Foundations**
   
-  [Day H15 → Callbacks](./advanced/callbacks.md)
+  [Day H15 → Callbacks](./acync/callbacks.md)
   
-  Day H16 → Promises
+  [Day H16 → Promises](./async/promises.md)
   
   Day H17 → async/await
   
