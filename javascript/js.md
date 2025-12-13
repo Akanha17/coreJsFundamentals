@@ -42,7 +42,7 @@
   
   [Day H16 → Promises](./async/promises.md)
   
-  Day H17 → async/await
+  [Day H17 → async/await](./async/asyncAwait.md)
   
   Day H18 → Fetch API + error handling
 
