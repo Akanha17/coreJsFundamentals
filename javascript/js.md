@@ -44,7 +44,7 @@
   
   [Day H17 → async/await](./async/asyncAwait.md)
   
-  Day H18 → Fetch API + error handling
+  [Day H18 → Fetch API + error handling](./async/fetch_api.md)
 
   Day H19 → Project: Weather App
 
