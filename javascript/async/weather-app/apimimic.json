@@ -1,0 +1,22 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "city": "Bangalore",
+      "temp": 28,
+      "description": "clear sky"
+    },
+    {
+      "id": 2,
+      "city": "Delhi",
+      "temp": 34,
+      "description": "haze"
+    },
+    {
+      "id": 3,
+      "city": "Mumbai",
+      "temp": 30,
+      "description": "humid"
+    }
+  ]
+}

@@ -46,7 +46,7 @@
   
   [Day H18 → Fetch API + error handling](./async/fetch_api.md)
 
-  Day H19 → Project: Weather App
+  [Day H19 → Project: Weather App](./async/weather-app/)
 
 - Phase 5: **Advanced**
   
