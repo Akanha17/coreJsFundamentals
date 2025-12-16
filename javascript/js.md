@@ -38,7 +38,7 @@
 
 - Phase 4: **Async Foundations**
   
-  [Day H15 → Callbacks](./acync/callbacks.md)
+  [Day H15 → Callbacks](./async/callbacks.md)
   
   [Day H16 → Promises](./async/promises.md)
   
@@ -50,7 +50,7 @@
 
 - Phase 5: **Advanced**
   
-  Day H20 → Classes & OOP
+  [Day H20 → Classes & OOP](./advanced/class.md)
 
   Day H21 → Modules (import, export)
 

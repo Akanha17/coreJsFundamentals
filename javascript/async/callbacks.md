@@ -1,6 +1,6 @@
 ### 1. Callback
 
-- A **callback** is a functiion passed into another function to be executed later.
+- A **callback** is a function passed into another function to be executed later.
 
 Example:
 
