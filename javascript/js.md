@@ -52,7 +52,7 @@
   
   [Day H20 → Classes & OOP](./advanced/class.md)
 
-  Day H21 → Modules (import, export)
+  [Day H21 → Modules (import, export)](./advanced/modules.md)
 
   Day H22 → Sets, Maps, WeakMaps
 
