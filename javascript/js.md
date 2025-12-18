@@ -54,7 +54,7 @@
 
   [Day H21 → Modules (import, export)](./advanced/modules.md)
 
-  Day H22 → Sets, Maps, WeakMaps
+  [Day H22 → Sets, Maps, WeakMaps](./advanced/brains.md)
 
   Day H23 → ES6+ features (spread, rest, destructuring, optional chaining)
 
