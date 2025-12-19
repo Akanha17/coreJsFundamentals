@@ -56,7 +56,7 @@
 
   [Day H22 → Sets, Maps, WeakMaps](./advanced/brains.md)
 
-  Day H23 → ES6+ features (spread, rest, destructuring, optional chaining)
+  [Day H23 → ES6+ features (spread, rest, destructuring, optional chaining)](./advanced/es6.md)
 
   Day H24 → LocalStorage & SessionStorage
 
