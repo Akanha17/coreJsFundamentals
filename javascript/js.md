@@ -58,7 +58,7 @@
 
   [Day H23 → ES6+ features (spread, rest, destructuring, optional chaining)](./advanced/es6.md)
 
-  Day H24 → LocalStorage & SessionStorage
+  [Day H24 → LocalStorage & SessionStorage](./advanced/storage.md)
 
 - Phase 6: **Hands on projects** (coming soon....)
 
