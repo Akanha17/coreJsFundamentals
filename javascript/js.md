@@ -60,8 +60,6 @@
 
   [Day H24 → LocalStorage & SessionStorage](./advanced/storage.md)
 
-- Phase 6: **Hands on projects** (coming soon....)
-
 
 
 
